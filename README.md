@@ -15,7 +15,7 @@ pip install pycryptodome
 
 ## Running the Program
 
-The program takes input values for RSA key generation, encryption, and decryption. Follow these steps to execute the program:
+Follow these steps to execute the program:
 
 1. **Run the program**:
    ```bash
